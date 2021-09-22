@@ -73,6 +73,6 @@ ul.navbar-horizontal a {
     color: pink;
 }
 ul.navbar-horizontal a:hover {
-    background-color: violet;
+    background-color: white;
     color:yellowgreen;
 }
