@@ -35,7 +35,7 @@
 
 table {
     border: 1px solid black;
-    width: 80%;   
+    width: 30%;   
 }
 
 th {
@@ -65,7 +65,7 @@ ul.navbar-horizontal {
 }
 ul.navbar-horizontal li {
     float:left;
-    background: linear-gradient(110deg, yellowgreen 40%,purple 50%);
+    background: linear-gradient(110deg, yellowgreen ,purple);
 }
 ul.navbar-horizontal a {
     display:block;
